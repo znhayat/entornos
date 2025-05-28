@@ -1,0 +1,14 @@
+C:\Users\isard\MiApp\bin\Debug\net8.0\MiApp.exe
+C:\Users\isard\MiApp\bin\Debug\net8.0\MiApp.deps.json
+C:\Users\isard\MiApp\bin\Debug\net8.0\MiApp.runtimeconfig.json
+C:\Users\isard\MiApp\bin\Debug\net8.0\MiApp.dll
+C:\Users\isard\MiApp\bin\Debug\net8.0\MiApp.pdb
+C:\Users\isard\MiApp\obj\Debug\net8.0\MiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\MiApp\obj\Debug\net8.0\MiApp.AssemblyInfoInputs.cache
+C:\Users\isard\MiApp\obj\Debug\net8.0\MiApp.AssemblyInfo.cs
+C:\Users\isard\MiApp\obj\Debug\net8.0\MiApp.csproj.CoreCompileInputs.cache
+C:\Users\isard\MiApp\obj\Debug\net8.0\MiApp.dll
+C:\Users\isard\MiApp\obj\Debug\net8.0\refint\MiApp.dll
+C:\Users\isard\MiApp\obj\Debug\net8.0\MiApp.pdb
+C:\Users\isard\MiApp\obj\Debug\net8.0\MiApp.genruntimeconfig.cache
+C:\Users\isard\MiApp\obj\Debug\net8.0\ref\MiApp.dll
