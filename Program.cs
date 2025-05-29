@@ -20,7 +20,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("El valor introduït no és un número enter vàlid.");
+            Console.WriteLine("No és vàlid.");
         }
     }
 }
