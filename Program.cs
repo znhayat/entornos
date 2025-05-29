@@ -11,7 +11,7 @@ class Program
         if (int.TryParse(Console.ReadLine(), out numero))
         {
             var multiples = Metodes.comptadorMultiples(numero);
-            Console.WriteLine($"Hi ha {multiples.Count} nombres múltiples de 7 menors de {numero}.");
+            Console.WriteLine($"Hi ha {multiples.Count} Múltiples de 7 menors de {numero}.");
             Console.WriteLine("Aquests són:");
             foreach (var m in multiples)
             {
