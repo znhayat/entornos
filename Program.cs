@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hola des de VS Code!");
+        Console.WriteLine("Hola des de VS Code i GitHub!");
         Console.Write("Introdueix un número enter: ");
         int numero;
         if (int.TryParse(Console.ReadLine(), out numero))
