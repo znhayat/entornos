@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Benvingut al programa de múltiples de 7!");
+        Console.WriteLine("Múltiples de 7!");
         Console.Write("Introdueix un número enter: ");
         int numero;
         if (int.TryParse(Console.ReadLine(), out numero))
